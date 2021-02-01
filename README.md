@@ -11,7 +11,7 @@ Secret B:  30  \
 Secret C:  69  \
 secret D:  25
 
-## Instructions:
+## Instructions Client:
 We used Python 3.9.1 \
 To run the client code all you need to do is run: 
 ```
@@ -26,8 +26,8 @@ PORT = 12235
 
 
 
-<!-- Server -->
-## Instructions:
+
+## Instructions Server:
 We used Python 3.9.1 \
 To run the server code all you need to do is run: 
 ```
